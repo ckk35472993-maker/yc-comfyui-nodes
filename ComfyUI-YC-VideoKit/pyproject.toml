@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-yc-videokit"
+version = "1.0.0"
+description = "MiniMax H3 video pipeline nodes: PlanV2 planning chain + SAM3 object-mask picker + generation-mask helpers, single install unit"
+requires-python = ">=3.10"
+license = "GPL-3.0-only"
+dependencies = []
+
+[tool.comfy]
+PublisherId = "yingce"
+DisplayName = "YC VideoKit (H3 plan + mask helpers)"
